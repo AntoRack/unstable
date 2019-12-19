@@ -7,12 +7,12 @@ https://brilliant.org/wiki/chain-reaction-game/
 
 The project is implemented using the following AI techniques: Iterative Deepening, Negamax, Alpha-Beta Pruning.
 
-Documentation (italian) here: <a href="https://github.com/tassoneroberto/unstable/blob/master/Documentation.pdf">Documentation.pdf</a>
+Documentation (italian) here: <a href="https://github.com/racheleantonio/unstable/blob/master/Documentation.pdf">Documentation.pdf</a>
 
 ## Installation
 Clone and change directory:
 ```
-git clone https://github.com/tassoneroberto/unstable.git
+git clone https://github.com/racheleantonio/unstable.git
 cd unstable
 
 ```
